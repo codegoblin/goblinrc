@@ -1,1 +1,2 @@
 color Tomorrow-Night-Eighties
+map <Leader>p :tabnew<CR>
