@@ -1,2 +1,3 @@
 color Tomorrow-Night-Eighties
+let mapleader=","
 map <Leader>p :tabnew<CR>

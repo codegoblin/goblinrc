@@ -1,4 +1,5 @@
 color Tomorrow-Night-Eighties
+let mapleader=";"
 map <leader>p :tabnew<CR>
 
 
